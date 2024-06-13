@@ -1,4 +1,4 @@
-## Problems featured in the June LeetCoding challenge of 2024
+## Problems featured in the LeetCoding challenge of June 2024
 1. 3110\. Score of a String \[[link](https://leetcode.com/problems/score-of-a-string/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day1)\]
 2. 344\. Reverse String \[[link](https://leetcode.com/problems/reverse-string/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day2)\]
 3. 2486\. Append Characters to String to Make Subsequence \[[link](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day3)\]
