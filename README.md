@@ -6,9 +6,9 @@
 5. 1002\. Find Common Characters \[[link](https://leetcode.com/problems/find-common-characters/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day5)\]
 6. 846\. Hand of Straights \[[link](https://leetcode.com/problems/hand-of-straights/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day6)\]
 7. 648\. Replace Words \[[link](https://leetcode.com/problems/replace-words/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day7)\]
-8. 523\. Continuous Subarray Sum 
-9. 974\. Subarray Sums Divisible by K
-10. 1051\. Height Checker
-11. 1122\. Relative Sort Array
-12. 75\. Sort Colors
+8. 523\. Continuous Subarray Sum \[[link](https://leetcode.com/problems/continuous-subarray-sum/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day8)\]
+9. 974\. Subarray Sums Divisible by K \[[link](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day9)\]
+10. 1051\. Height Checker \[[link](https://leetcode.com/problems/height-checker/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day10)\]
+11. 1122\. Relative Sort Array \[[link](https://leetcode.com/problems/relative-sort-array/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day11)\]
+12. 75\. Sort Colors \[[link](https://leetcode.com/problems/sort-colors/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day12)\]
 13. 2037\. Minimum Number of Moves to Seat Everyone \[[link](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)\] \[[solution](https://github.com/mibrgmv/leetcode-june-2024/tree/main/src/day13)\]
