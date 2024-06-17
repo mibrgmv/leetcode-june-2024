@@ -3,7 +3,7 @@ package day16;
 public class Solution {
     /**
      * day 16
-     * 330. Patching Array
+     * 330. Patching Array (Hard)
      * Runtime: 100.00%
      * Memory: 90.19%
      */
