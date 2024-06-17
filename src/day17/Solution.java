@@ -3,7 +3,7 @@ package day17;
 class Solution {
     /**
      * day 17
-     * 633. Sum of Square Numbers (Hard)
+     * 633. Sum of Square Numbers (Medium)
      * Runtime: 97.79%
      * Memory: 65.09%
      */
