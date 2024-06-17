@@ -15,3 +15,4 @@
 14. 945\. Minimum Increment to Make Array Unique \[[link](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)\] \[[solution](src/day14/Solution.java/)\]
 15. 502\. IPO \[[link](https://leetcode.com/problems/ipo/description/)\] \[[solution](src/day15/Solution.java)\]
 16. 330\. Patching Array \[[link](https://leetcode.com/problems/patching-array/description/)\] \[[solution](src/day16/Solution.java)\]
+17. 633\. Sum of Square Numbers \[[link](https://leetcode.com/problems/sum-of-square-numbers/description/)\] \[[solution](src/day17/Solution.java)\]
