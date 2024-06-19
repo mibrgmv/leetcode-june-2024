@@ -3,7 +3,7 @@ package day12;
 public class Solution {
     /**
      * day 12
-     * 75. Sort Colors
+     * 75. Sort Colors (Medium)
      * Runtime: 100.00%
      * Memory: 77.63%
      */
