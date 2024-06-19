@@ -17,4 +17,4 @@
 16. 330\. Patching Array \[[link](https://leetcode.com/problems/patching-array/description/)\] \[[solution](src/day16/Solution.java)\]
 17. 633\. Sum of Square Numbers \[[link](https://leetcode.com/problems/sum-of-square-numbers/description/)\] \[[solution](src/day17/Solution.java)\]
 18. 826\. Most Profit Assigning Work \[[link](https://leetcode.com/problems/most-profit-assigning-work/description/)\] \[[solution](src/day18/Solution.java)\]
-19. 
+19. 1482\. Minimum Number of Days to Make m Bouquets \[[link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)\] \[[solution](src/day19/Solution.java)\]
