@@ -3,11 +3,6 @@ package day18;
 import java.util.Arrays;
 
 public class Solution {
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().maxProfitAssignment(new int[] {13,37,58}, new int[] {4,90,96}, new int[] {34,73,45}));
-        System.out.println(new Solution().maxProfitAssignment(new int[] {2,4,6,8,10}, new int[] {10,20,30,40,50}, new int[] {4,5,6,7}));
-    }
     /**
      * day 18
      * 826. Most Profit Assigning Work (Medium)
