@@ -18,3 +18,4 @@
 17. 633\. Sum of Square Numbers \[[link](https://leetcode.com/problems/sum-of-square-numbers/description/)\] \[[solution](src/day17/Solution.java)\]
 18. 826\. Most Profit Assigning Work \[[link](https://leetcode.com/problems/most-profit-assigning-work/description/)\] \[[solution](src/day18/Solution.java)\]
 19. 1482\. Minimum Number of Days to Make m Bouquets \[[link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)\] \[[solution](src/day19/Solution.java)\]
+20. 1552\. Magnetic Force Between Two Balls \[[link](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)\] \[[solution](src/day20/Solution.java)\]
