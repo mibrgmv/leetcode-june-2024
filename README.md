@@ -20,3 +20,4 @@
 19. 🟨 1482\. Minimum Number of Days to Make m Bouquets \[[link](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)\] \[[solution](src/day19/Solution.java)\]
 20. 🟨 1552\. Magnetic Force Between Two Balls \[[link](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)\] \[[solution](src/day20/Solution.java)\]
 21. 🟨 1052\. Grumpy Bookstore Owner \[[link](https://leetcode.com/problems/grumpy-bookstore-owner/description/)\] \[[solution](src/day21/Solution.java)\]
+22. 🟨 1248\. Count Number of Nice Subarrays \[[link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)\] \[[solution](src/day22/Solution.java)\]
