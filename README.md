@@ -21,6 +21,6 @@
 20. 🟨 1552\. Magnetic Force Between Two Balls \[[link](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)\] \[[solution](src/day20/Solution.java)\]
 21. 🟨 1052\. Grumpy Bookstore Owner \[[link](https://leetcode.com/problems/grumpy-bookstore-owner/description/)\] \[[solution](src/day21/Solution.java)\]
 22. 🟨 1248\. Count Number of Nice Subarrays \[[link](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)\] \[[solution](src/day22/Solution.java)\]
-23. 🟨
+23. 🟨 1438\. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit \[[link](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)\] \[[solution](src/day23/Solution.java)\]
 24. 🟥
 25. 🟨 1038\. Binary Search Tree to Greater Sum Tree \[[link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)\] \[[solution](src/day25/Solution.java)\]
