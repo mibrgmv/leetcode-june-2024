@@ -7,7 +7,7 @@ public class Solution {
      * day 23
      * 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (Medium)
      * Runtime: 72.15%
-     * Complexity: 91.41%
+     * Memory: 91.41%
      */
     public int longestSubarray(int[] nums, int limit) {
         int n = nums.length;

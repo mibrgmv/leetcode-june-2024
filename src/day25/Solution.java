@@ -8,7 +8,7 @@ public class Solution {
      * day 25
      * 1038. Binary Search Tree to Greater Sum Tree
      * Runtime: 100.00%
-     * Complexity: 98.65%
+     * Memory: 98.65%
      */
     private List<TreeNode> order = new ArrayList<>();
 

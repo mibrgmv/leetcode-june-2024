@@ -7,7 +7,7 @@ public class Solution {
      * day 22
      * 1248. Count Number of Nice Subarrays (Medium)
      * Runtime: 72.90%
-     * Complexity: 65.91%
+     * Memory: 65.91%
      */
     public int numberOfSubarrays(int[] nums, int k) {
         int n = nums.length;

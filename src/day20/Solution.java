@@ -7,7 +7,7 @@ public class Solution {
      * day 20
      * 1552. Magnetic Force Between Two Balls (Medium)
      * Runtime: 79.08%
-     * Complexity: 93.35%
+     * Memory: 93.35%
      */
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
